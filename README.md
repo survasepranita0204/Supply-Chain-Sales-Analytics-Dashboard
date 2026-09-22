@@ -211,8 +211,8 @@ Users can filter the dashboard to analyze specific business segments and observe
 
 ## 🖼️ Dashboard Preview
 
-![Supply Chain & Sales Analytics Dashboard](Dashboard/Supply_Chain_Sales_Dashboard.png)
-
+![Supply Chain & Sales Analytics Dashboard](Dashboard/Supply_Chain_Sales_Dashboard1.png)
+![Supply Chain & Sales Analytics Dashboard](Dashboard/Supply_Chain_Sales_Dashboard2.png)
 ---
 
 ## 📁 Project Structure
